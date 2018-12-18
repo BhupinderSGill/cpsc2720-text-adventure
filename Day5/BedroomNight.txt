@@ -1,0 +1,9 @@
+﻿You climb into bed, and go to sleep.
+Your sheets are soft and warm.
+#ifHaveItem#Petition#Hopefully your hard work from today will pay off.#
+#ifHaveItem#!ShutBedroomWindow#The breeze from outside has a strange smell tonight.#
+
+You feel sleep overtake you.
+
+[0] In Game Menu
+#movement#Day5/midnight/Bedroom#Continue?#

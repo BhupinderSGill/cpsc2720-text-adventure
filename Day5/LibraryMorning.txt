@@ -1,0 +1,20 @@
+
+﻿You can see the sunrise.
+
+News Author> Hey who are you?
+
+You> I've got something for you to sign...
+
+News Author> I don't sign petitions. I need to be objective.
+
+You> But this could affect your business!
+
+News Author> I've got to be impartial, and I'm heading out of town
+for a few days.
+
+The News Author drives away.
+
+The Library is closed.
+
+[0] In Game Menu
+#movement#Day5/OutsideAfternoon#Leave#

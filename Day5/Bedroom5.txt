@@ -1,0 +1,11 @@
+
+
+You wake up to find a newspaper on the foot of your bed. You admire the dedication to service in your hometown.
+Your room is still a mess, but the breeze coming through your open window smells nice.
+
+[0] In Game Menu
+#movement#Day5/Bedroom5News#Read The Paper#
+#movement#Day5/Bedroom5Window#Look out the window#
+#movement#Day5/Bedroom5Clean_Transition#Cleanup and organize your room#
+
+#movement#Day5/LivingRoomMorning#Leave#

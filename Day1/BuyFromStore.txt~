@@ -1,0 +1,13 @@
+﻿BuyFromStore
+
+You decide to get some milk,#ifHaveItem#Eggs#a carton of eggs,##ifHaveItem#Cereal#cereal,#a can of cola and a box of tic tacs. 
+As you approach the counter you notice that the teller looks quite dirty.
+You notice as he rings you through that his hair is standing on end 
+flowing in every which direction like he was an electrocuted cartoon character.
+
+He grabs your hand and looks you in the eye right after you pay for your groceries 
+and says," Have you heard about the Cooperation?
+
+[0] In Game Menu
+#takeAction#ResponceToParanoia#No#
+#movement#Day1/ResponceToParanoia#yes#

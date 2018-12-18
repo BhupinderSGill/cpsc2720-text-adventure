@@ -1,0 +1,4 @@
+Worker> You better not get in our way tomorrow.
+[0] In Game Menu
+#movement#Day5/midnight/Consolation#Go back to your room#
+#addItem#ConvinceConstructionWorker#

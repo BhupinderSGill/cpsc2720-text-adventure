@@ -1,0 +1,20 @@
+
+You wake up to the sun shinning through the blinds.
+Same old room as always.
+Not much happened yesterday regarding Mr. Paranoia, or the Corporation...
+Perhaps today?
+#ifHaveItem#PlayVideogamesDay4#>You turn on your game console... but turn it off soon after.
+Kind of not feeling it today.#
+
+#ifHaveItem#NewspaperDay4#>The Headline caught your attention...
+"Corporation going ahead with plan, CEO says.:
+>You read the article...
+>It makes you furious! They're gonna 100% demolish the neighborhood...
+Your home!#
+
+[0] In Game Menu
+#takeAction#PlayVideogamesDay4#Play more video games!#
+#takeAction#NewspaperDay4#Read today's Newspaper?#
+#movement#Day4/LakeDay4#Let's head to the lake, maybe Mr. Paranoia is there today?#
+#movement#Day4/ShopDay4#Maybe Mr. Paranoia is at his shop?#
+

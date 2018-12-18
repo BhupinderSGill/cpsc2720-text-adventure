@@ -1,0 +1,15 @@
+
+You knock on Bhupinder's door.
+
+Bhupinder> You, I haven't seen you in a while. Have you played any Brea...
+
+You cut him off.
+You> Mr. CEO is is trying to get a project
+to go ahead in Dandy Ville which was already rejected by the courts
+one time. I'm collecting signatures of people against the project.
+
+Bhupinder> I'll sign
+#addItem#BhupinderSignature#
+
+[0] In Game Menu
+#movement#Day5/OutsideNight#Leave#

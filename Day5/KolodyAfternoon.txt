@@ -1,0 +1,10 @@
+
+﻿The sun is high overhead. You get the feeling he isn’t around.
+
+
+#ifHaveItem#!KolodySignature#
+You already have his signature, so you decide not to bother him any further.
+#
+
+[0] In Game Menu
+#movement#Day5/OutsideEvening#Leave#

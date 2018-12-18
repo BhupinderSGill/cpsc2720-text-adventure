@@ -1,0 +1,13 @@
+You can see the sunrise.
+
+Where do you want to go?
+[0] In Game Menu
+#movement#Day5/LakeMorning#The Lake#
+#movement#Day5/CompanyMorning#The Company Building#
+#movement#Day5/StoreMorning#Mr. Paranoia's Store#
+#movement#Day5/StacieMorning#Stacie's House#
+#movement#Day5/BhupinderMorning#Bhupinder's House#
+#movement#Day5/KolodyMorning#Kolody's House#
+#movement#Day5/JuliusMorning#Julius' House#
+#movement#Day5/CramerMorning#Cramer's House#
+#movement#Day5/LibraryMorning#The Library#

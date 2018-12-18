@@ -1,0 +1,10 @@
+
+You arrive home late. Your body is sore and you desperately need Bathe and eat something.
+Your door is open when you come up to your house. you assume that you forgot to close it when you left.
+There has never been any crime in Danny Ville.
+You clean yourself up and wonder if you should.
+
+
+[0] In Game Menu
+#movement#Day2/PostBedRoomDay2#Watch TV?#
+#movement#Day3/BedroomDay3#Go to sleep?#

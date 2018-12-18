@@ -1,0 +1,826 @@
+# depslib dependency file v1.0
+1490913099 source:/home/kolj2720/Desktop/project/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	<cstdlib>
+	"Inventory.h"
+	"saveLoad.h"
+	"Parse.h"
+	"Other.h"
+	"Menu.h"
+
+1489009408 source:/home/kolj2720/Desktop/project/include/Savetestfile.cc
+	"saveLoad.h"
+	<iostream>
+
+1491255719 /home/kolj2720/Desktop/project/include/saveLoad.h
+	"Inventory.h"
+	<iostream>
+	<fstream>
+
+1489009578 /home/kolj2720/Desktop/project/include/Savetestfile.cc
+	"Sources/saveLoad.cc"
+	<iostream>
+
+1489009484 source:/home/kolj2720/Desktop/project/saveLoad.cc
+	"include/saveLoad.h"
+	<iostream>
+
+1489010495 /home/kolj2720/Desktop/project/src/Savetestfile.cc
+	"saveLoad.cc"
+	<iostream>
+
+1489010565 /home/kolj2720/Desktop/project/src/saveLoad.cc
+	"saveLoad.h"
+	<iostream>
+
+1489010365 /home/kolj2720/Desktop/project/src/saveLoad.h
+	<iostream>
+	<fstream>
+
+1491255719 source:/home/kolj2720/Desktop/project/src/saveLoad.cc
+	"../include/saveLoad.h"
+	<iostream>
+	<fstream>
+
+1489178722 source:/home/kolj2720/Desktop/project/src/Savetestfile.cc
+
+1489010565 source:/home/kolj2720/Desktop/project/save/saveLoad.cc
+	"saveLoad.h"
+	<iostream>
+
+1489178371 /home/kolj2720/Desktop/project/save/saveLoad.h
+	<iostream>
+	<fstream>
+
+1489178020 source:/home/kolj2720/Desktop/project/save/Savetestfile.cc
+	"saveLoad.h"
+	<iostream>
+
+1489010565 /home/kolj2720/Desktop/project/save/saveLoad.cc
+	"saveLoad.h"
+	<iostream>
+
+1489178020 /home/kolj2720/Desktop/project/save/Savetestfile.cc
+	"saveLoad.h"
+	<iostream>
+
+1489353647 source:/home/mooj2720/Desktop/cpsc2720-text-adventure/src/Area.cc
+	"Area.h"
+
+1489353551 /home/mooj2720/Desktop/cpsc2720-text-adventure/include/Area.h
+	"Inventory.h"
+
+1489439940 /home/mooj2720/Desktop/cpsc2720-text-adventure/include/Inventory.h
+	<map>
+	<string>
+	<iostream>
+
+1489439940 source:/home/mooj2720/Desktop/cpsc2720-text-adventure/src/Inventory.cc
+	"Inventory.h"
+	<iostream>
+	<string>
+
+1489439940 source:/home/mooj2720/Desktop/cpsc2720-text-adventure/src/saveLoad.cc
+	"../include/saveLoad.h"
+	<iostream>
+	<fstream>
+
+1489439940 /home/mooj2720/Desktop/cpsc2720-text-adventure/include/saveLoad.h
+	"Inventory.h"
+	<iostream>
+	<fstream>
+
+1489446441 source:/home/mooj2720/Desktop/cpsc2720-text-adventure/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	"Inventory.h"
+	"saveLoad.h"
+	"Parse.h"
+	"Other.h"
+	"Menu.h"
+
+1489462641 source:/home/gilb2720/Desktop/textproject/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	"Inventory.h"
+	"saveLoad.h"
+	"Parse.h"
+	"Other.h"
+	"Menu.h"
+
+1489464370 /home/gilb2720/Desktop/textproject/include/Inventory.h
+	<map>
+	<string>
+	<iostream>
+
+1489464370 source:/home/gilb2720/Desktop/textproject/src/Inventory.cc
+	"Inventory.h"
+	<iostream>
+	<string>
+
+1489464289 source:/home/gilb2720/Desktop/textproject/src/saveLoad.cc
+	"../include/saveLoad.h"
+	<iostream>
+	<fstream>
+
+1489460785 /home/gilb2720/Desktop/textproject/include/saveLoad.h
+	"Inventory.h"
+	<iostream>
+	<fstream>
+
+1489364341 /home/gilb2720/Desktop/textproject/include/Options.h
+
+1489460785 /home/gilb2720/Desktop/textproject/include/Parse.h
+	"Other.h"
+	"Inventory.h"
+	<fstream>
+
+1489460785 /home/gilb2720/Desktop/textproject/include/Menu.h
+	"Inventory.h"
+	"Other.h"
+	<iostream>
+
+1489465876 /home/kolj2720/Desktop/project/include/Inventory.h
+	<map>
+	<string>
+	<iostream>
+
+1490913099 source:/home/kolj2720/Desktop/project/src/Inventory.cc
+	"Inventory.h"
+	<iostream>
+	<string>
+
+1489458146 source:/home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	"Inventory.h"
+	"saveLoad.h"
+	"Parse.h"
+	"Other.h"
+	"Menu.h"
+
+1489454309 /home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/include/Inventory.h
+	<map>
+	<string>
+	<iostream>
+
+1489454265 /home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/include/saveLoad.h
+	"Inventory.h"
+	<iostream>
+	<fstream>
+
+1489433702 source:/home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/src/Inventory.cc
+	"Inventory.h"
+	<iostream>
+	<string>
+
+1489433700 source:/home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/src/saveLoad.cc
+	"../include/saveLoad.h"
+	<iostream>
+	<fstream>
+
+1489458030 /home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/include/Parse.h
+	"Other.h"
+	"Inventory.h"
+	<fstream>
+
+1489456979 /home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/include/Other.h
+	<map>
+	<string>
+	<iostream>
+	"Inventory.h"
+	"saveLoad.h"
+
+1489458577 source:/home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/src/Parse.cc
+	"Other.h"
+	"Parse.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1489454790 source:/home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/src/Other.cc
+	"Other.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1489454725 source:/home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/src/Menu.cc
+	"Other.h"
+	"Menu.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1489455792 /home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/include/Menu.h
+	"Inventory.h"
+	"Other.h"
+	<iostream>
+
+1489459768 /home/kolj2720/Desktop/project/include/Parse.h
+	"Other.h"
+	"Inventory.h"
+	<fstream>
+
+1491255719 /home/kolj2720/Desktop/project/include/Menu.h
+	"Inventory.h"
+	"Other.h"
+	<iostream>
+
+1489446015 /home/mooj2720/Desktop/cpsc2720-text-adventure/include/Parse.h
+	"Other.h"
+	"Inventory.h"
+	<fstream>
+
+1489446015 /home/mooj2720/Desktop/cpsc2720-text-adventure/include/Other.h
+	<map>
+	<string>
+	<iostream>
+	"Inventory.h"
+	"saveLoad.h"
+
+1489446015 /home/mooj2720/Desktop/cpsc2720-text-adventure/include/Menu.h
+	"Inventory.h"
+	"Other.h"
+	<iostream>
+
+1489446015 source:/home/mooj2720/Desktop/cpsc2720-text-adventure/src/Other.cc
+	"Other.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1489446015 source:/home/mooj2720/Desktop/cpsc2720-text-adventure/src/Parse.cc
+	"Parse.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1489447430 source:/home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/src/TestMenu.cc
+	"TestMenu.h"
+
+1489449551 /home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/test/TestMenu.h
+	<cppunit/extensions/HelperMacros.h>
+	"Menu.h"
+
+1489447471 source:/home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/src/TestOther.cc
+	"TestOther.h"
+
+1489447354 /home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/test/TestOther.h
+	<cppunit/extensions/HelperMacros.h>
+	"Other.h"
+
+1489447544 source:/home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/src/TestParse.cc
+	"TestParse.h"
+
+1489447237 /home/craj2720/Desktop/GroupProject/cpsc2720-text-adventure/test/TestParse.h
+	<cppunit/extensions/HelperMacros.h>
+	"Parse.h"
+
+1489460785 /home/gilb2720/Desktop/textproject/include/Other.h
+	<map>
+	<string>
+	<iostream>
+	"Inventory.h"
+	"saveLoad.h"
+
+1489464370 source:/home/gilb2720/Desktop/textproject/src/Menu.cc
+	"Other.h"
+	"Menu.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1489464164 source:/home/gilb2720/Desktop/textproject/src/Other.cc
+	"Other.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1489464370 source:/home/gilb2720/Desktop/textproject/src/TestMenu.cc
+	"TestMenu.h"
+	"Menu.h"
+	"Inventory.h"
+
+1489464370 /home/gilb2720/Desktop/textproject/test/TestMenu.h
+	<cppunit/extensions/HelperMacros.h>
+	"Menu.h"
+
+1489464370 source:/home/gilb2720/Desktop/textproject/src/TestOther.cc
+	"TestOther.h"
+
+1489450223 /home/gilb2720/Desktop/textproject/test/TestOther.h
+	<cppunit/extensions/HelperMacros.h>
+	"Other.h"
+
+1489464370 source:/home/gilb2720/Desktop/textproject/src/TestParse.cc
+	"TestParse.h"
+	"Parse.h"
+	"Inventory.h"
+	"Other.h"
+
+1489464370 /home/gilb2720/Desktop/textproject/test/TestParse.h
+	<cppunit/extensions/HelperMacros.h>
+	"Parse.h"
+
+1489464142 source:/home/gilb2720/Desktop/textproject/src/Parse.cc
+	"Other.h"
+	"Parse.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1491255719 /home/kolj2720/Desktop/project/include/Other.h
+	<map>
+	<string>
+	<iostream>
+	"Inventory.h"
+	"saveLoad.h"
+
+1490913099 source:/home/kolj2720/Desktop/project/src/Menu.cc
+	"Other.h"
+	"Menu.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+
+1490913099 source:/home/kolj2720/Desktop/project/src/Other.cc
+	"Other.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1489465877 source:/home/kolj2720/Desktop/project/src/Parse.cc
+	"Other.h"
+	"Parse.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1489465877 source:/home/kolj2720/Desktop/project/src/TestMenu.cc
+	"TestMenu.h"
+	"Menu.h"
+	"Inventory.h"
+
+1491255719 /home/kolj2720/Desktop/project/test/TestMenu.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Menu.h"
+
+1489470068 source:/home/kolj2720/Desktop/project/src/TestOther.cc
+	"TestOther.h"
+	"Inventory.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1491255719 /home/kolj2720/Desktop/project/test/TestOther.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Other.h"
+
+1489465877 source:/home/kolj2720/Desktop/project/src/TestParse.cc
+	"TestParse.h"
+	"Parse.h"
+	"Inventory.h"
+	"Other.h"
+
+1491255719 /home/kolj2720/Desktop/project/test/TestParse.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Parse.h"
+
+1490989276 source:/home/gilb2720/Desktop/textProject/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	"../include/Inventory.h"
+	"../include/saveLoad.h"
+	"../include/Parse.h"
+	"../include/Other.h"
+	"../include/Menu.h"
+
+1490988024 /home/gilb2720/Desktop/textProject/include/Inventory.h
+	<map>
+	<string>
+	<iostream>
+
+1490989213 /home/gilb2720/Desktop/textProject/include/saveLoad.h
+	"Inventory.h"
+	<iostream>
+	<fstream>
+
+1490989206 /home/gilb2720/Desktop/textProject/include/Parse.h
+	"Other.h"
+	"Inventory.h"
+	<fstream>
+
+1490989175 /home/gilb2720/Desktop/textProject/include/Other.h
+	<map>
+	<string>
+	<iostream>
+	"Inventory.h"
+	"saveLoad.h"
+
+1490989189 /home/gilb2720/Desktop/textProject/include/Menu.h
+	"Inventory.h"
+	"Other.h"
+	<iostream>
+
+1490988727 source:/home/gilb2720/Desktop/textProject/src/Inventory.cc
+	"../include/Inventory.h"
+	<iostream>
+	<string>
+
+1490988758 source:/home/gilb2720/Desktop/textProject/src/Menu.cc
+	"../include/Other.h"
+	"../include/Menu.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+
+1490988775 source:/home/gilb2720/Desktop/textProject/src/Other.cc
+	"../include/Other.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1490988792 source:/home/gilb2720/Desktop/textProject/src/Parse.cc
+	"../include/Other.h"
+	"../include/Parse.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1490988025 source:/home/gilb2720/Desktop/textProject/src/saveLoad.cc
+	"../include/saveLoad.h"
+	<iostream>
+	<fstream>
+
+1490992677 source:/home/gilb2720/Desktop/test/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	"include/Inventory.h"
+	"include/saveLoad.h"
+	"include/Parse.h"
+	"include/Other.h"
+	"include/Menu.h"
+
+1490992677 /home/gilb2720/Desktop/test/include/Inventory.h
+	<map>
+	<string>
+	<iostream>
+
+1490992677 /home/gilb2720/Desktop/test/include/saveLoad.h
+	"Inventory.h"
+	<iostream>
+	<fstream>
+
+1490992677 /home/gilb2720/Desktop/test/include/Parse.h
+	"Other.h"
+	"Inventory.h"
+	<fstream>
+
+1490994312 /home/gilb2720/Desktop/test/include/Other.h
+	<map>
+	<string>
+	<iostream>
+	"Inventory.h"
+	"saveLoad.h"
+
+1490994312 /home/gilb2720/Desktop/test/include/Menu.h
+	"Inventory.h"
+	"Other.h"
+	<iostream>
+
+1490992677 source:/home/gilb2720/Desktop/test/src/Inventory.cc
+	"../include/Inventory.h"
+	<iostream>
+	<string>
+
+1490994311 source:/home/gilb2720/Desktop/test/src/Menu.cc
+	"../include/Menu.h"
+	"../include/Other.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+
+1490994312 source:/home/gilb2720/Desktop/test/src/Other.cc
+	"../include/Other.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1490992678 source:/home/gilb2720/Desktop/test/src/saveLoad.cc
+	"../include/saveLoad.h"
+	<iostream>
+	<fstream>
+
+1490992677 source:/home/gilb2720/Desktop/test/src/TestMenu.cc
+	"TestMenu.h"
+	"Menu.h"
+	"Inventory.h"
+
+1490992678 /home/gilb2720/Desktop/test/test/TestMenu.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Menu.h"
+
+1490992677 source:/home/gilb2720/Desktop/test/src/TestOther.cc
+	"TestOther.h"
+	"Inventory.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1490992678 /home/gilb2720/Desktop/test/test/TestOther.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Other.h"
+
+1490992678 source:/home/gilb2720/Desktop/test/src/TestParse.cc
+	"TestParse.h"
+	"Parse.h"
+	"Inventory.h"
+	"Other.h"
+
+1490992678 /home/gilb2720/Desktop/test/test/TestParse.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Parse.h"
+
+1490992818 source:/home/gilb2720/Desktop/test/src/Parse.cc
+	"../include/Other.h"
+	"../include/Parse.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1490992677 source:/home/gilb2720/Desktop/test/main.cc
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	"include/Inventory.h"
+	"include/saveLoad.h"
+	"include/Parse.h"
+	"include/Other.h"
+	"include/Menu.h"
+
+1491080115 source:/home/gilb2720/Desktop/project/src/saveLoad.cc
+	"../include/saveLoad.h"
+	<iostream>
+	<fstream>
+
+1491080115 /home/gilb2720/Desktop/project/include/saveLoad.h
+	"Inventory.h"
+	<iostream>
+	<fstream>
+
+1491080115 /home/gilb2720/Desktop/project/include/Inventory.h
+	<map>
+	<string>
+	<iostream>
+
+1491080115 source:/home/gilb2720/Desktop/project/src/Inventory.cc
+	"../include/Inventory.h"
+	<iostream>
+	<string>
+
+1491080115 source:/home/gilb2720/Desktop/project/src/Menu.cc
+	"../include/Menu.h"
+	"../include/Other.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+
+1491080115 /home/gilb2720/Desktop/project/include/Menu.h
+	"Inventory.h"
+	"Other.h"
+	<iostream>
+
+1491080115 /home/gilb2720/Desktop/project/include/Other.h
+	<map>
+	<string>
+	<iostream>
+	"Inventory.h"
+	"saveLoad.h"
+
+1491080115 source:/home/gilb2720/Desktop/project/src/Other.cc
+	"../include/Other.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1491080115 source:/home/gilb2720/Desktop/project/src/Parse.cc
+	"../include/Other.h"
+	"../include/Parse.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1491080115 /home/gilb2720/Desktop/project/include/Parse.h
+	"Other.h"
+	"Inventory.h"
+	<fstream>
+
+1491080115 source:/home/gilb2720/Desktop/project/src/TestMenu.cc
+	"TestMenu.h"
+	"Menu.h"
+	"Inventory.h"
+
+1491080115 /home/gilb2720/Desktop/project/test/TestMenu.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Menu.h"
+
+1491080115 source:/home/gilb2720/Desktop/project/src/TestOther.cc
+	"TestOther.h"
+	"Inventory.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1491080115 /home/gilb2720/Desktop/project/test/TestOther.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Other.h"
+
+1491080115 source:/home/gilb2720/Desktop/project/src/TestParse.cc
+	"TestParse.h"
+	"Parse.h"
+	"Inventory.h"
+	"Other.h"
+
+1491080115 /home/gilb2720/Desktop/project/test/TestParse.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Parse.h"
+
+1489460836 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/TestMenu.cc
+	"TestMenu.h"
+	"Menu.h"
+	"Inventory.h"
+
+1491526987 /home/craj2720/GroupProject/cpsc2720-text-adventure/test/TestMenu.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Menu.h"
+
+1491598389 /home/craj2720/GroupProject/cpsc2720-text-adventure/include/Menu.h
+	"Inventory.h"
+	<iostream>
+
+1491618868 /home/craj2720/GroupProject/cpsc2720-text-adventure/include/Inventory.h
+	<map>
+	<string>
+	<iostream>
+
+1491594951 /home/craj2720/GroupProject/cpsc2720-text-adventure/include/Other.h
+	<map>
+	<string>
+	<iostream>
+	"Options.h"
+	"Inventory.h"
+	"saveLoad.h"
+
+1491528441 /home/craj2720/GroupProject/cpsc2720-text-adventure/include/saveLoad.h
+	"Inventory.h"
+	<iostream>
+	<fstream>
+
+1491598281 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/main.cc
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	"include/Inventory.h"
+	"include/saveLoad.h"
+	"include/newParse.h"
+	"include/Menu.h"
+	"include/Options.h"
+
+1489458030 /home/craj2720/GroupProject/cpsc2720-text-adventure/include/Parse.h
+	"Other.h"
+	"Inventory.h"
+	<fstream>
+
+1491598096 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/Inventory.cc
+	"../include/Inventory.h"
+	<iostream>
+	<string>
+
+1491585642 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/Menu.cc
+	"../include/Menu.h"
+	"../include/Other.h"
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+
+1491594952 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/Other.cc
+	"../include/Other.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1491528258 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/Parse.cc
+	"../include/Other.h"
+	"../include/Parse.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1491528373 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/saveLoad.cc
+	"../include/saveLoad.h"
+	<iostream>
+	<fstream>
+
+1491594999 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/TestOther.cc
+	"TestOther.h"
+	"Inventory.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1491590359 /home/craj2720/GroupProject/cpsc2720-text-adventure/test/TestOther.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Other.h"
+
+1491528339 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/TestParse.cc
+	"TestParse.h"
+	"Parse.h"
+	"Inventory.h"
+	"Other.h"
+
+1491526987 /home/craj2720/GroupProject/cpsc2720-text-adventure/test/TestParse.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Parse.h"
+
+1491619438 /home/craj2720/GroupProject/cpsc2720-text-adventure/include/newParse.h
+	"Options.h"
+	"Inventory.h"
+	<fstream>
+	<iostream>
+
+1491620567 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/newParse.cc
+	"../include/newParse.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1491620630 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/Options.cc
+	"Options.h"
+
+1491620519 /home/craj2720/GroupProject/cpsc2720-text-adventure/include/Options.h
+	<iostream>
+	<string>
+	<fstream>
+	"Inventory.h"
+
+1491615181 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/TestOptions.cc
+	"TestOptions.h"
+	"Inventory.h"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1491618544 source:/home/craj2720/GroupProject/cpsc2720-text-adventure/src/TestNewParse.cc
+	"TestNewParse.h"
+	"newParse.h"
+	"Options.h"
+	"Inventory.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1491615729 /home/craj2720/GroupProject/cpsc2720-text-adventure/test/TestNewParse.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/newParse.h"
+
+1491604618 /home/craj2720/GroupProject/cpsc2720-text-adventure/test/TestOptions.h
+	<cppunit/extensions/HelperMacros.h>
+	"../include/Options.h"
+

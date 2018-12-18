@@ -1,0 +1,13 @@
+
+﻿Things that have happened:
+Your room is how you remember it. Your bed isn't made and cloths litter your floor.
+you see your gaming system beckoning you to play, but your bed looks very comfortable.
+After all you only got a couple hours of sleep on the bus.
+
+#ifHaveItem#PlayVideoGamesDay1#>You play video games for a while unwinding from school.#
+
+[0] In Game Menu
+#takeAction#PlayVideoGamesDay1#Play Breath of the Wilds?#
+#movement#Day1/HouseEntranceDay1#Go back to the main entrance?#
+#movement#Day2/BedRoomDay2#Sleep for the rest of the day?#
+

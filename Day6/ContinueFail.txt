@@ -1,0 +1,22 @@
+
+﻿#ifHaveItem#ConvinceConstructionWorker#>The Construction worker you talked to last night goes up.
+Construction Worker: "Despite my position, I am siding with the town. It is common knowledge among us workers
+	that the CEO has definitely bribed a politician."
+CEO: "I PAY YOU. YOU'RE FIRED!"#
+
+#ifHaveItem#Petition#>You bring forth the petition, that you worked hard to gather signatures for.
+Judge: "You do not have enough support from the town...
+	It seems most of them approve of the new golf course.
+	Your case is being thrown out."#
+#ifHaveItem#!Petition#Judge: "It is clear you have no support from the town"
+	It seems all of them approve of the new golf course.
+	I have no reason to deny the CEO.
+	Your case is being thrown out."#
+
+Judge: "Thank you."
+________________________________
+The CEO walks over to the judge and pats him on the back...
+You see him secretly hand the Judge something...
+
+[0]In Game Menu
+#movement#Day6/Credits#End...#

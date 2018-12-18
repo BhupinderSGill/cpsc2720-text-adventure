@@ -1,0 +1,11 @@
+
+You approach the strange man. He introduces himself as the Hippy,
+"Look at this place! Nature is more important than what any one can gain from causing this.
+You need to rise up and stand up for your environment. These fish need your help. We need to stop The Corporation!"
+He complains about what the Corporation has done to the environment for over twenty minutes with out letting you get a word in.
+He make some good points but in the end you feel he is pushing his own ideals on you.
+
+#ifHaveItem#CameraDay2#>You snap several pictures of The Hippy. He gives you a dirty look and,#
+You decide to do something else.
+[0] In Game Menu
+#movement#Day2/BeachDay2#Continue?#

@@ -1,0 +1,13 @@
+You can see the sunset.
+
+Where do you want to go?
+[0] In Game Menu
+#movement#Day5/LakeEvening#The Lake#
+#movement#Day5/CompanyEvening#The Company Building#
+#movement#Day5/StoreEvening#Mr. Paranoia's Store#
+#movement#Day5/StacieEvening#Stacie's House#
+#movement#Day5/BhupinderEvening#Bhupinder's House#
+#movement#Day5/KolodyEvening#Kolody's House#
+#movement#Day5/JuliusEvening#Julius' House#
+#movement#Day5/CramerEvening#Cramer's House#
+#movement#Day5/LibraryEvening#The Library#

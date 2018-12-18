@@ -1,0 +1,12 @@
+
+You traverse the beach. You spend hours going around The Lake.
+after a investigating for most of the day you find A large pipe.
+The water around the pipe is blood red.
+
+#ifHaveItem#Cereal#>You loose your lunch, throwing up into the red slug#
+
+#ifHaveItem#CameraDay2#>You snap several pictures of the nasty red water.#
+
+[0] In Game Menu
+#movement#Day2/EndOfDayHomeDay2#Go home?#
+

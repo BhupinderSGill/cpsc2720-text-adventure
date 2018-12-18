@@ -1,0 +1,92 @@
+/////////////////////////////////////////////////////////////////////
+ Documentation
+ 
+ #movement#Area1#Print this#
+ #takeAction#actionName#Print this#
+ #addItem#ItemName#
+ #ifHaveItem#ItemName#Print out this text#
+ #addTime# 
+
+/////////////////////////////////////////////////////////////////////
+#movement#Area1#Print this#
+/////////////////////////////////////////////////////////////////////
+Go to Area1.txt
+
+eg. in the text file you will write
+---------------------------------------------------------------------
+This sure is a great story. I wonder if I should continue reading?
+
+#movement#Beach#Screw reading I'm going to the beach!#
+---------------------------------------------------------------------
+The player will see the following option that they can choose
+The 'Beach.txt' is the next area they will move to
+---------------------------------------------------------------------
+This sure is a great story. I wonder if I should continue reading?
+
+[1] Screw reading I'm going to the beach!
+
+/////////////////////////////////////////////////////////////////////
+#takeAction#actionName#Print this#
+/////////////////////////////////////////////////////////////////////
+do an action (can only be done once)
+after selecting this the option disappears the next time a player enters the area
+it works by taking 'actionName' and adding it to the inventory (it was harder to implement than it sounds because it was also an active option that the player could select)
+---------------------------------------------------------------------
+
+eg. in the text file you will write
+---------------------------------------------------------------------
+This sure is a great story. I wonder if I should continue reading?
+
+#ifHaveItem#KeepReading#I already read this book though.#
+
+#takeAction#KeepReading#Contine to read the book.#
+#takeAction#StopReading#This book is aweful. 
+
+Stop reading.#
+#movement#Beach#Screw reading I'm going to the beach!#
+---------------------------------------------------------------------
+the player will see the following display
+the player can enter the appropriate number to select it
+notice how the new lines are also printed out
+notice how the #ifHaveItem# did not show up because 'KeepReading' was not in the inventory
+---------------------------------------------------------------------
+This sure is a great story. I wonder if I should continue reading?
+
+[1] Continue to read the book.
+[2] This book is aweful. 
+
+Stop reading.
+[3] Screw reading I'm going to the beach!#
+
+/////////////////////////////////////////////////////////////////////
+#addItem#ItemName#
+/////////////////////////////////////////////////////////////////////
+adds 'ItemName' to the inventory if encountered in a text file
+
+eg. in the text file you will write
+---------------------------------------------------------------------
+This sure is a great story. I wonder if I should continue reading?
+
+#addItem#Good Book#
+---------------------------------------------------------------------
+when this area/event/text file is loaded onto the screen the item 'Good Book'
+will be added to the inventory if it isn't already
+the player will see
+---------------------------------------------------------------------
+This sure is a great story. I wonder if I should continue reading?
+
+/////////////////////////////////////////////////////////////////////
+#ifHaveItem#ItemName#Print out this text#
+/////////////////////////////////////////////////////////////////////
+this tag in the text file will "Print out this text" if the player has 'ItemName' in their inventory. Otherwise nothing will be printed to the screen.
+
+/////////////////////////////////////////////////////////////////////
+#addTime#
+/////////////////////////////////////////////////////////////////////
+-there is an integer called time in the main.cpp
+-if this tag is written in a text file then the game will add +1 to the time integer
+-when the time integer reaches some number (like 20) they run out of time and the courtroom scene is loaded
+-the endgame which is specially coded will begin (more like credits or ending video)
+
+-I think by including choices that waste the player's time the player can lose the game
+-by not collecting enough 'evidence' against MR. CEO before the time limit they will lose the court case

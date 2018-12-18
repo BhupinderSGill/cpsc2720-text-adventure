@@ -1,0 +1,11 @@
+
+Your room looks organized. Today's newspaper is at the foot
+of your bed.
+
+#ifHaveItem#!ShutBedroomWindow#You smell a nice breeze through your window.#
+
+[0] In Game Menu
+#movement#Day5/Bedroom5NewsClean#Read The Paper#
+#takeAction#ShutBedroomWindow#Close your window#
+
+#movement#Day5/LivingRoomAfternoon#Leave#

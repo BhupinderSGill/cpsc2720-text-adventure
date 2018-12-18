@@ -1,0 +1,10 @@
+
+You're back in your room. Still kind of a mess, but clean enough.
+#ifHaveItem#TalkToCousinDay3#You have no idea if it's still the same number, but trying won't hurt.
+Try dialing his number?#
+#ifHaveItem#!TalktoCousinDay3#*Ring*
+*Ring*
+You hear the phone ringing.#
+
+[0] In Game Menu
+#movement#Day3/PhoneDay3#Pick up phone, and...#

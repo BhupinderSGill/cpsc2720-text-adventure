@@ -1,0 +1,19 @@
+
+#ifHaveItem#NoDay4#Mr. Paranoia: "Glad you reconsidered."
+Mr. Paranoia looks delighted.#
+#ifHaveItem#!NoDay4#Mr. Paranoia: "Exce-llent! I can... you know... feel your determination to do this!"
+Mr. Paranoia looks ecstatic.#
+
+You help Mr. Paranoia reach an air duct that was a bit too high for him to reach.
+He tells you to wait, and disappears as he crawls inside.
+...
+...
+After about 20 minutes, you see Mr. Paranoia hop out of the duct.
+Mr. Paranoia: "Here, t-take this! I must... go into hiding."
+He holds out documents for you to take.
+#addItem#Documents#
+
+#ifHaveItem#Documents#>You take the documents.#
+
+[0] In Game Menu
+#movement#Day5/Bedroom5#Time to head to bed for the night#

@@ -1,0 +1,14 @@
+You can see the stars.
+They remind you of good times in Danny Ville.
+
+Where do you want to go?
+[0] In Game Menu
+#movement#Day5/LakeNight#The Lake#
+#movement#Day5/CompanyNight#The Company Building#
+#movement#Day5/StoreNight#Mr. Paranoia's Store#
+#movement#Day5/StacieNight#Stacie's House#
+#movement#Day5/BhupinderNight#Bhupinder's House#
+#movement#Day5/KolodyNight#Kolody's House#
+#movement#Day5/JuliusNight#Julius' House#
+#movement#Day5/CramerNight#Cramer's House#
+#movement#Day5/LibraryNight#The Library#

@@ -1,0 +1,16 @@
+
+You walk over to the bush.
+
+#ifHaveItem#!TalkToCousinDay3#Mr. Paranoia: "Good... we've finally m-meet up.
+	L-look, we need... to sneak i-in to... the Corporate build-ing!
+	So... what do you say?"#
+#ifHaveItem#TalkToCousinDay3#Mr. Paranoia: "Hu-how did you know where to find me...?
+	Never... mind. Want to assist me in sneaking inside... the Corporate buildi-ng?!"#
+
+#ifHaveItem#NoDay4#Mr.Paranoia: "Hah! S-suit yourself..."#
+
+[0] In Game Menu
+#movement#Day4/InsideCorporateDay4v2#...Yeah! Let's do this thing.#
+#takeAction#NoDay4#Naaaah...#
+#movement#Day5/Bedroom5#Go home and get some dinner instead.#
+

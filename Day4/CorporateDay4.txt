@@ -1,0 +1,12 @@
+
+You take a short bus trip to the outskirts of the town.
+...
+...
+You are now standing in-front of a towering building of the Corporation.
+#ifHaveItem#NewspaperDay4#>Time to get angry! Maybe you should go inside and complain!#
+#ifHaveItem#!TalkToCousinDay3#Mr. Paranoia: "Pssshhhhhhhht"
+>You hear a noise, and look over to a bush to find Mr. Paranoia waving his hand for you to come over.#
+
+[0] In Game Menu
+#movementIfItem#TalkToCousinDay3#Day4/InsideCorporateDay4#Go inside and complain!#
+#movementIfItem#!TalkToCousinDay3#Day4/ParanoiaDay4#Go over to Mr. Paranoia.#

@@ -1,0 +1,8 @@
+
+You can see the sunrise.
+
+You knock on Julius' door, but he doesn't answer.
+
+[0] In Game Menu
+#movement#Day5/JuliusMorning_Afternoon#Bang Louder#
+#movement#Day5/OutsideAfternoon#Leave#

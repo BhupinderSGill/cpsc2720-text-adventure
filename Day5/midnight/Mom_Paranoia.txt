@@ -1,0 +1,5 @@
+﻿You wait as the phone rings.
+#ifHaveItem#CallParanoia#Due to regular maintenance, we will not be accepting
+phone calls at Your Dale Prison this evening.#
+[0] In Game Menu
+#movementIfItem#!CallParnoia#Day5/midnight/Paranoia#continue##movementIfItem#CallParnoia#Day6/TheCourtRoom#Go to sleep#

@@ -1,0 +1,19 @@
+You can see the stars.
+
+You knock on Julius' door.
+Julius opens the door and gives you a questioning look.
+
+Julius> What's the big deal?
+
+You> Mr. CEO is is trying to get a project
+to go ahead in Dandy Ville which was already rejected by the courts
+one time. I'm collecting signatures of people against the project.
+
+Julius> Oh ya that thing. I'll sign.
+
+Julius signs the petition
+
+#addItem#JuliusSignature#
+
+[0] In Game Menu
+#movement#Day5/OutsideEnd#Leave#

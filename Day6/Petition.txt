@@ -1,0 +1,30 @@
+﻿You bring forth the petition, that you worked hard to gather signatures for.
+Listen on the petition are:
+#ifHaveItem#BhupinderSignature#Bhupinder#
+#ifHaveItem#JuliusSignature#Julius#
+#ifHaveItem#ParanoiaSignature#Paranoia#
+#ifHaveItem#KolodySignature#Kolody#
+#ifHaveItem#CramerSignature#Cramer#
+#ifHaveItem#HippySignature#Hippy#
+#ifHaveItem#ParanoiaMotherSignature#Mr. Paranoia's Mother#
+_____________________________________________________
+#ifHaveItem#TalkedToCousinDay3#Mr. Paranoia, in chains and accompanied by four police officers,
+is dragged to the witness stand.
+
+Judge: "Well? Anything to add... Mr. Paranoia?"
+
+Mr. Paranoia: "THE CEO IS AN ALIEN! OUT TO GET OUR LANDS, AND DISTORT TIME.
+	He was planning on demolishing our houses, and building a
+	human slave farm."
+
+CEO: "Get him out of here."
+
+Judge: "Take him back"#
+#ifHaveItem#!TalkedtoCousinDay3#>Mr. Paranoia can be heard yelling from the seats.
+>The Judge does not looked impressed. He signals security to kick him out.
+>Mr. Paranoia is dragged and thrown outside.#
+
+[0] In Game Menu
+#movement#Day6/Judge#Continue...#
+
+

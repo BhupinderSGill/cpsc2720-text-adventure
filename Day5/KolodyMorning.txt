@@ -1,0 +1,21 @@
+
+﻿You can see the sunrise.
+
+You knock on Kolody's door. Kolody answers.
+
+Kolody> What?
+
+You> Mr. CEO is is trying to get a project
+to go ahead in Dandy Ville which was...
+
+Kolody is signing your petition.
+
+You> ...already rejected by the courts
+one-
+
+The door gets slammed in your face.
+You feel violated by his erratic behaviour. 
+
+[0] In Game Menu
+#addItem#KolodySignature#
+#movement#Day5/OutsideAfternoon#Leave#

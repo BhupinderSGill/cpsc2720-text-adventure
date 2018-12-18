@@ -1,0 +1,20 @@
+﻿Things that have happened:
+You decide to get some milk,#ifHaveItem#Eggs#a carton of eggs,# #ifHaveItem#Cereal#cereal, #a can of cola and a box of tic tacs. 
+As you approach the counter you notice that the teller looks quite dirty.
+You notice as he rings you through that his hair is standing on end 
+flowing in every which direction like he was an electrocuted cartoon character.
+
+He grabs your hand and looks you in the eye right after you pay for your groceries 
+and says," Have you heard about the Corporation?
+
+#ifHaveItem#ResponceToParanoia#What! How is this possible? You have lived in this town just as long as i have!
+No matter. The Corporation has been polluting The Lake, destroying the Forrest, robing me of my Bed, nowhere is safe.
+They could even be in your house right now eating your bread.
+He seems completely insane but also quite genuine with his concern.
+You keep what he said in mind.
+You're about to walk away when he asks if you have heard about the corporation.#
+
+
+[0] In Game Menu
+#takeAction#ResponceToParanoia#No#
+#movement#Day1/HomeAfterDay1#yes#

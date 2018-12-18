@@ -1,0 +1,9 @@
+You note that your window still hasn't been fixed.
+Through it, you can see the sunrise.
+
+You go about your daily routine, eating breakfast,
+brushing your teeth and washing your face in the
+kitchen sink. Finally you are ready to head out.
+
+[0] In Game Menu
+#movementIfItem#Petition#Day5/OutsideMorning#Head out##movementIfItem#!Petition#Day5/OutsideHack#Head out#

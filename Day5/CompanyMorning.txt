@@ -1,0 +1,14 @@
+
+You can see the sunrise.
+
+#ifHaveItem#Documents#Mr.CEO> Hello Danny. I've heard of you.
+
+YOU> I have never met you in my life.
+
+Mr.CEO> You are lucky I'm a nice guy.#
+
+Mr.CEO is ignoring you. The receptionist has a look of fear
+that you might speak to him while Mr. CEO is watching.
+
+[0] In Game Menu
+#movement#Day5/OutsideAfternoon#Leave#

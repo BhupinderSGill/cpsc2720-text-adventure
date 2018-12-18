@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gameTestRunnerCPPUNIT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/gameTestRunnerCPPUNIT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../include" />
+					<Add directory="../test" />
+					<Add directory="../src" />
+				</Compiler>
+				<Linker>
+					<Add option="-lcppunit" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/gameTestRunnerCPPUNIT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add option="-std=c++11" />
+		</Compiler>
+		<Unit filename="../include/Area.h" />
+		<Unit filename="../include/Inventory.h" />
+		<Unit filename="../include/Menu.h" />
+		<Unit filename="../include/Options.h" />
+		<Unit filename="../include/Other.h" />
+		<Unit filename="../include/Parse.h" />
+		<Unit filename="../include/newParse.h" />
+		<Unit filename="../include/saveLoad.h" />
+		<Unit filename="../src/Inventory.cc" />
+		<Unit filename="../src/Menu.cc" />
+		<Unit filename="../src/Options.cc" />
+		<Unit filename="../src/Other.cc" />
+		<Unit filename="../src/Parse.cc" />
+		<Unit filename="../src/TestInventory.cc" />
+		<Unit filename="../src/TestMenu.cc" />
+		<Unit filename="../src/TestNewParse.cc" />
+		<Unit filename="../src/TestOptions.cc" />
+		<Unit filename="../src/TestOther.cc" />
+		<Unit filename="../src/TestParse.cc" />
+		<Unit filename="../src/TestSaveLoad.cc" />
+		<Unit filename="../src/newParse.cc" />
+		<Unit filename="../src/saveLoad.cc" />
+		<Unit filename="../test/TestInventory.h" />
+		<Unit filename="../test/TestMenu.h" />
+		<Unit filename="../test/TestNewParse.h" />
+		<Unit filename="../test/TestOptions.h" />
+		<Unit filename="../test/TestOther.h" />
+		<Unit filename="../test/TestParse.h" />
+		<Unit filename="../test/TestSaveLoad.h" />
+		<Unit filename="mainTest.cc" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

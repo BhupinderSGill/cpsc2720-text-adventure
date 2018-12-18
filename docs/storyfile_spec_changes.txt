@@ -1,0 +1,5 @@
+List of changes to storyfile specs:
+<text>
+<menu>
+<command>
+Additional rule: The fail condition overides the pass condition

@@ -1,0 +1,34 @@
+{
+  "$id": "5",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2018-12-18T14:18:46.9134799-07:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "File Status",
+    "Branches",
+    "Shelves"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": [
+    {
+      "$id": "6",
+      "BaseUrl": "https://www.github.com",
+      "Identifier": "BhupinderSGill/CPSC2720-Text-Adventure-Game",
+      "RemoteName": "CPSC2720 Text Adventure Game",
+      "Type": 0,
+      "Username": "BhupinderSGill",
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": null,
+      "AvatarUrl": null,
+      "DisplayName": "CPSC2720 Text Adventure Game: https://www.github.com"
+    }
+  ]
+}

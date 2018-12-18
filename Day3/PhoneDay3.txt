@@ -1,0 +1,25 @@
+
+#ifHaveItem#TalkToCousinDay3#>You decide to pick up the phone and dial Mr. Paranoia's number. You hear ringing, so that's a good sign.
+*Click*
+"Hello?"
+>You hear a female's voice on the other side. You tell her you want to talk to Mr. Paranoia."
+"Oh! I'm his mother. I'm afraid he isn't home today. Something about going to see the old Hippy out at the lake...?"
+>You thank her, and hang up...
+*Click*
+>To the lake!#
+
+#ifHaveItem#!TalkToCousinDay3#>You pick up the phone, and say hello.
+"H-hey... it's me... Mr. Paranoia."
+>He's speaking with a heavy breath and in broken sentences.
+"You want in? We're gonna... take them down, man..."
+>Take who down?
+"...Meet me at the lake."
+*Click*
+>To the lake...?!#
+
+#ifHaveItem#!LunchDay3#You're pretty hungry.#
+#ifHaveItem#LunchDay3#>You eat the leftover sandwich from the fridge. Hmmmmmmmmmmm.#
+
+[0] In Game Menu
+#takeAction#LunchDay3#Eat something before you leave?#
+#movement#Day3/LakeDay3#Let's see what Mr. Paranoia is up to, go to the lake?#

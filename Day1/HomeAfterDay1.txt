@@ -1,0 +1,10 @@
+﻿You return home, yawning like a bear.
+You realize you are quite tired would you like to.
+
+#ifHaveItem#WatchTv#>You watch a documentary about a small town business. It started small and slowly grew over the years. Eventually they learned they could go into towns and basically take them over. After developing an elite law team the Corporation became unstoppable.#
+#ifHaveItem#CleanUpDay1#>After a long bath you yawn feeling how tired you are.#
+
+[0] In Game Menu
+#movement#Day2/BedRoomDay2#Go to bed?#
+#takeAction#WatchTv#Watch TV?#
+#takeAction#CleanUpDay1#Clean up?#

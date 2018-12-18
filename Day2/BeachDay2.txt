@@ -1,0 +1,10 @@
+
+You arrive at the beach to find an orange copper color along the beach.
+There is a Hairy individual on your left crouched down. on your right there is something washed up on the beach.
+
+#ifHaveItem#CameraDay2#>You snap several pictures of the scenery.#
+
+[0] In Game Menu
+#movement#Day2/TheHippyDay2#Go towards the strange man?#
+#movement#Day2/FishDay2#Check out what ever washed up?#
+#movement#Day2/ExploreBeachDay2#This place is boring. Go explore?#

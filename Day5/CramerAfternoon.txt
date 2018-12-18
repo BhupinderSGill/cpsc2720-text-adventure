@@ -1,0 +1,5 @@
+The sun is high overhead.
+
+[0] In Game Menu
+#movement#Day5/CramerEvening#Knock on Cramer's door#
+#movement#Day5/OutsideEvening#Leave#

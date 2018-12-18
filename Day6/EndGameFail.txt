@@ -1,0 +1,27 @@
+﻿#ifHaveItem#!Documents#
+Judge: "Are you telling me you came to court without evidence?
+	I'm sorry, I must throw out your case.
+	The CEO can continue with his plans.
+	Thank you"
+
+CEO: "Hahahahahahahahahahaha"
+______________________________________
+>You lost your home.
+Not so dandy.
+[0] In Game Menu
+#
+#ifHaveItem#Documents#
+You present the documents, that Mr. Paranoia risked his life for
+to the court. Undeniable proof of the evil schemes of the CEO bribing a politician
+to allow him to build a golf course.
+
+CEO: "I knew you were the one who broke into my office! How dare you try to foil my plan!"
+
+>The town gasps.
+>The judge seems to be siding with you a bit.
+________________________________________________________
+Your Aunt is next, and testifies that the CEO is a swell guy, and only out for their best
+interest in heart.
+Your Uncle does not look comfortable, and stays silent.
+#
+#movementIfItem#!Documents#Day6/Credits#End :(##movementIfItem#Documents#Day6/ContinueFail#Continue...#

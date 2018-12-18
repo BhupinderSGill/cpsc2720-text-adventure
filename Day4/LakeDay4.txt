@@ -1,0 +1,10 @@
+
+You decide to head over to the Lake to see if you can meet up with Mr. Paranoia there.
+The Lake is still disgusting as always.
+Nobody here...
+You see the Hippy's shack a bit up ahead.
+
+[0] In Game Menu
+#movement#Day4/HippyShackDay4#Go to the Hippy's shack?#
+#movement#Day5/Bedroom5#Go home and watch some dumb YouTube videos for the rest of the day?#
+

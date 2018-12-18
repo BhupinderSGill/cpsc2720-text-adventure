@@ -1,0 +1,14 @@
+The store is closed. #ifHaveItem#!TalkToCousinDay3#You can see Mr. Paranoia frantically pacing inside.# #ifHaveItem#TalkToCousinDay3#You find a note:
+
+If you are reading this I am probably in prison or even dead.
+I have talked to the people who make the Newspaper in the Library
+into publishing a petition so that the town can legally oppose
+Mr. CEO's plans. The signature of my mother and I are on
+the same petition below.
+
+-Mr. Paranoia#
+
+[0] In Game Menu
+#takeAction#ParanoiaSignature#Get Mr. Paranoia's signature#
+#takeAction#ParanoiaMotherSignature#Get Mr. Paranoia's Mother's signature#
+#movement#Day5/OutsideEvening#Leave#

@@ -1,0 +1,40 @@
+*********************************************************************
+Introduction(Temporary Title of Game: Dandyville)
+*********************************************************************
+
+"Dandyville" is a game where the player follows the interactive story of the Main Character who lives in a small town currently experiencing a crisis. Through the player's choices the story will progress to several new zany choices and surreal environments. Throughout the game many new characters, events, and items will be encountered that are necessary for the Player to reach a successful conclusion to the game, while failing to interact appropriately with the story environment will lead to a bad ending.
+
+*********************************************************************
+Story & Design Elements 
+*********************************************************************
+
+The story of Dandyville has been intentionally made light-hearted to create a free and forgiving storyboard.
+
+Story elements are not arbitrary and serve to also form an interface for the Player to interact with the game. For, example players will be informed via a daily newspaper in the story that acts as a tool to regularily update the player on recent occurences within the game.
+
+Story and setting should be finalized before the completion of implementation. Once a code framework has been established and inclusion of the story has begun it would be inefficient, and disorganized to make storyline revisions, where beforehand it would have been easier to make changes before including it in the code.
+ 
+*********************************************************************
+Story Scenes, Events, Sub-events, and Environments
+*********************************************************************
+
+A skeleton framework of major events that occur regardless of the player's actions, which also act as the foundation of the story, will be used. From this main structure sub events which require the player's input and interaction will be added to cling like flesh on bones.
+
+Multiple environments are implemented in the game through the usage of many different events in the game that the player can traverse.
+
+The player must interact with their environments, events, and items in order to progress towards the game's conclusion.
+
+*********************************************************************
+Story Characters -multiple characters
+*********************************************************************
+
+Character selection was based on their ability to open up interesting choices for the player in the game as well as add humor throughout the story. Characters perspectives are to be written by the different team members enabling the creation of more authentic viewpoints and diversified personalities.
+
+Some examples of characters are
+CEO
+Mr. Paranoia
+Hippie
+Mayor
+Hooligan
+
+Names were selected based on the characters personalities and utilized to draw attention to the characters quirks. Rather than using proper names, characters were statically labeled for their more important pernal natures and it is left for the Player to form mental images of them as they interact with them throughout the game.

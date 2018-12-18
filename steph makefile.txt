@@ -1,0 +1,35 @@
+# some settings...
+# use the gnu C++ compiler
+CCC= g++11
+# list all warnings
+CCCFLAGS = -Wall -g -std=c++11
+
+# all is called a target, matrixTest is called a dependency
+# ie. "the target all is dependent on the executable matrixTest
+all : main
+# the target matrixTest is dependent on matrix.o and matrixtest.o
+# the following line is the required executable
+main : Inventory.o Menu.o Other.o Parse.o saveLoad.o main.o
+	$(CCC) $(CCCFLAGS) $^ -o $@
+# default rule compiling .cc to .o
+# all .o file targets are dependent on the corresponding .cc files
+%.o : %.cc
+	$(CCC) -c $(CCCFLAGS) $<
+
+# Don't need next two lines because of the above default rule
+# But no harm including them
+# In the following two lines make knows that the .cc file is required in the
+# current dependency so you can leave it out.  You can also leave out the
+# corresponding executable line
+
+Inventory.o : include/Inventory.h
+Menu.o : include/Menu.h include/Inventory.h include/Other.h
+Other.o : include/Other.h include/Inventory.h include/saveLoad.h
+Parse.o : include/Parse.h include/Other.h include/Inventory.h
+saveLoad.o : include/saveLoad.h include/Inventory.h
+
+clean:
+	rm -f *.o *~ *% *# .#*
+
+clean-all: clean
+	rm -f main

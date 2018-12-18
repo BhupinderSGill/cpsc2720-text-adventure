@@ -1,0 +1,12 @@
+﻿From what you can gather, by glancing around, 
+most of the townsfolk are present.
+The judge is sitting at his seat, awaiting the
+case. Opposite of you is the confident looking
+CEO, and his many expensive lawyers.
+
+#addTime##addTime##addTime##addTime##addTime##addTime##addTime##addTime##addTime##addTime##addTime##addTime#
+#addTime##addTime##addTime##addTime##addTime##addTime##addTime##addTime##addTime##addTime##addTime##addTime#
+
+[0] In Game Menu
+[It is time. Enter anything else to continue.]
+

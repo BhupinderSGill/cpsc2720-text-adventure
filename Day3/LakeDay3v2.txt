@@ -1,0 +1,15 @@
+
+#ifHaveItem#TalkToCousin#>You ask the Hippy if he has seen Mr. Paranoia around here today.
+Hippy: "Haaah, let me tell you something about that... time. It's, like, of the essence.
+	Each action you, like, take, should totally push time forward...
+	Untill you eventually run out...
+	...AND GO STRAIGHT TO THE COURTROOM!!!"
+>What...?#
+#ifHaveItem#!TalkToCousin#Hippy: "Oh himmmmm...?
+	He WAAAS here, like... a while ago.
+	Said something about the corporation or, like, something.
+	But he said he would be back, like, tomorrow, maaan.
+>Might as well come back tomorrow then.#
+
+[0] In Game Menu
+#movement#Day4/BedroomDay4#Screw it, let's call it day?#

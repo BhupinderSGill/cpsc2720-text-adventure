@@ -1,0 +1,42 @@
+Signatures:
+BhupinderSignature
+JuliusSignature
+ParanoiaSignature
+KolodySignature
+HippySignature
+CramerSignature
+ParanoiaMotherSignature
+Test of Character:
+CleanRoom
+ShutBedroomWindow
+Petition
+
+
+Characters that appear in Day 5:
+The News Author
+The Hippy
+Mr. Paranoia
+Zack, your cousin/newspaper boy
+Your Aunt Stacie
+Your Uncle Pat
+The creators (Julius, Bhupinder, Cramer, Kolody)
+Mr. CEO
+The Receptionist
+Mr. Paranoia's Mother
+
+After Midnight:
+----------------
+If you don't answer the worker, none of these things occur.
+TalkedConstructionWorker
+
+You get one chance to protest to the construction worker. He always seems to ignore you,
+if you pick the long phrase you get
+ConvinceConstructionWorker
+
+If you talked to the construction worker you are upset and can call:
+Your mom
+Mr.Paranoia (If he is in jail)
+
+Control Items:
+CallParanoia
+CallMom

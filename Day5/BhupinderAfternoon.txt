@@ -1,0 +1,21 @@
+
+The sun is high overhead.
+
+#ifHaveItem#!BJJJ#You knock on Bhupinder's door.#
+#ifHaveItem#BJJJ#You BANG on Bhupinder's door until he answers.#
+
+Bhupinder> I haven't seen you in a while. What do you want this early?
+
+You> Early?
+
+Bhupinder> Yeah, i woke up like ten minutes ago.
+
+You> Mr. CEO is is trying to get a project
+to go ahead in Dandy Ville which was already rejected by the courts
+one time. I'm collecting signatures of people against the project.
+
+Bhupinder> I'll sign
+#addItem#BhupinderSignature#
+
+[0] In Game Menu
+#movement#Day5/OutsideEvening#Leave#

@@ -1,0 +1,17 @@
+﻿Things that have happened:
+You head out of the house to go to a convenience store.
+The people of the town look pretty worn out.
+
+You walk into, "The Dirty Bin" a convenience store that has been in the town for years.
+You see a man who appears to be in his late 40's running the till.
+You look around and your eyes lock on to the towns home made Cereal.
+you know its not good for you but it tastes delicious.
+Right next to it is a carton of eggs. The more healthy choice no doubt
+What should you do?
+
+
+[0] In Game Menu
+#takeAction#Eggs#Grab eggs off the shelf#
+#takeAction#Cereal#Grab cereal off the shelf#
+#movement#Day1/BuyFromStoreDay1#Checkout at till?#
+

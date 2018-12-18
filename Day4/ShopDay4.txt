@@ -1,0 +1,17 @@
+You walk over to Mr. Paranoia's shop, which is fairly close by.
+You step inside the shop, and hear a short bell that rings anytime the main door is opened.
+#ifHaveItem#!YellDay4#There is nobody there.#
+
+#ifHaveItem#YellDay4#???: "Yes? Coming!"
+>You hear a voice.
+>Mr. Paranoia's Mother walks out from the door behind the counter.
+Mr. Paranoia's Mother: "Ohhh! Welcome! Are you here for Paranoia?"
+>You nod.
+Mr. Paranoia's Mother: "Oh, I'm sorry, dear, he isn't here... Not sure where that boy has gone."#
+
+#ifHaveItem#YellDay4#>Doesn't seem to be much to do here now.#
+
+[0] In Game Menu
+#takeAction#YellDay4#Yell for Mr. Paranoia?#
+#movement#Day4/LakeDay4#Could try the Lake again...#
+#movement#Day5/Bedroom5#Go home and play video games for the rest of the day...?#

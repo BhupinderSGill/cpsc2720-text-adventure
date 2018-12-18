@@ -1,0 +1,18 @@
+﻿#ifHaveItem#Documents#Judge: "From the proof provided to me by those documents, and other witnesses...
+	I have come to the conclusion that the CEO is corrupt and does not have good intentions.
+	His plan to building a golf course here has been rejected. Thank you."#
+#ifHaveItem#!Documents#Judge: "Seeing the overwhelming support from the town, to gather
+	together for the same cause. I have no choice but to side with them on this
+	issue. Mr. CEO, you may not go with your plan to demolish the old town of Dandyville."#
+
+CEO: "WHAT? How can you do that! You know how much money I spent on this?!"
+_____________________________________________________
+
+The town celebrated their victory for the rest of the day.
+They all went to the festival and fully enjoyed themselves.
+
+Thank you for saving Dandyville!
+It's been dandy.
+
+[0] In Game Menu
+#movement#Day6/Credits#End!#

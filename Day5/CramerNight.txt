@@ -1,0 +1,16 @@
+You are skulking around in the dark. Cramer sees you
+and opens the door.
+
+Cramer> I'm working on the implementation of a game. Very busy.
+What do you want?
+
+You> Mr. CEO is is trying to get a project
+to go ahead in Dandy Ville which was already rejected by the courts
+one time. I'm collecting signatures of people against the project.
+#addItem#CramerSignature#
+
+Cramer> Sounds cool.
+
+Cramer signs.
+[0] In Game Menu
+#movement#Day5/OutsideEnd#Leave#

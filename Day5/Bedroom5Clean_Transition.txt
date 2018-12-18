@@ -1,0 +1,7 @@
+
+You spend hours cleaning your room.
+
+#addItem#CleanRoom#
+
+[0] In Game Menu
+#movement#Day5/Bedroom5Clean#Continue#

@@ -1,0 +1,5 @@
+save.txt
+Day3/BedroomDay3v2.txt
+0
+PlayVideoGamesDay1
+TalkToCousinDay3

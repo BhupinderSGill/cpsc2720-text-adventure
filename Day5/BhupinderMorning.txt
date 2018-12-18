@@ -1,0 +1,8 @@
+
+You can see the sunrise.
+
+You knock on Bhupinder's door, but he doesn't answer.
+
+[0] In Game Menu
+#movement#Day5/BhupinderMorning_AfternoonTransition#Bang Louder#
+#movement#Day5/OutsideAfternoon#Leave#

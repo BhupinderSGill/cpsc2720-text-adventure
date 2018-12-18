@@ -1,0 +1,11 @@
+
+The Hippy is gardening. You talk to him.
+
+Hippy> Yo you need my signature yo? I've been expecting you.
+You gotta stop them em man they came for my shack a few hours ago,
+I had to move it. They will go after the town next.
+
+The Hippy signs the petition.
+#addItem#HippySignature#
+[0] In Game Menu
+#movement#Day5/OutsideAfternoon#Leave#

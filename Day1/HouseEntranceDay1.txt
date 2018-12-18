@@ -1,0 +1,19 @@
+﻿You wake up after your long ride home. The bus drops you off at your house.
+In Dandy Ville
+Hearing a loud buzzing coming from your room you house. You wonder what it could
+be and head inside.
+You quickly realize that your parents, who are on vacation, must have left the 
+radio on and you hear, "There is much controversy behind The corporation's 
+actions. It’s highly likely that the Fallen Apple Sector will be demolished."
+
+Surprised you say out loud, "But I live in the Fallen Apple Sector."
+You are in your kitchen, and you feel your stomach growl.
+
+#ifHaveItem#ReadNewsPaper#You have read the newspaper and find out that while you were in school The Cooperation came into town and has been turning your home town upside down. Many people have tried to oppose them but have failed because they lacked the, "evidence".#
+
+What will you do?
+
+[0] In Game Menu
+#takeAction#ReadNewsPaper#Take and Read the NewsPaper?#
+#movement#Day1/StoreDay1#Go to buy some food for breakfast?#
+#movement#Day1/BedRoomDay1#Go to bedroom?#

@@ -1,0 +1,13 @@
+﻿Prison Clerk> Hello you have reached Your Dale Prison.
+How can I help you?
+
+You> I would like to speak with Mr. Paranoia.
+
+Prison Clerk> Sure thing. He has no restrictions.
+We prefer to be relaxed about things here.
+I'll put you through to him.
+
+...a few seconds...
+
+[0] In Game Menu
+#movement#Day5/midnight/ParanoiaCon#Continue...#

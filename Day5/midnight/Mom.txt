@@ -1,0 +1,26 @@
+Mom> Hello. Mom speaking.
+
+You> Hi mom (sob). Something terrible happened.
+
+Mom> Sweetie what is is?
+
+You> My house is going to be demolished.
+
+Mom> Sweetie that's terrible. But a mature person looks
+on the positive side of things. I hear the CEO is going
+to build a golf course in the town.
+
+You> Mom I don't want a golf course. I want a place to live.
+
+Mom> Sometimes we can't have what we want. But staying positive
+will make things seem better. You should trust your Mom.
+
+You> Goodnight Mom
+
+Mom> Goodnight Sweetie.
+
+You hand up.
+[0] In Game Menu
+#movement#Day6/TheCourtRoom#Go to sleep#
+#movementIfItem#TalkToCousinDay3#Day5/midnight/Mom_Paranoia#Call Mr. Paranoia#
+#addItem#CallMom#

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Dandyville" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Dandyville" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="src" />
+					<Add directory="test" />
+				</Compiler>
+				<Linker>
+					<Add option="-lcppunit" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Dandyville" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add directory="header" />
+			<Add directory="definition" />
+		</Compiler>
+		<Linker>
+			<Add directory="header" />
+			<Add directory="definition" />
+		</Linker>
+		<Unit filename="include/Inventory.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="include/Options.h" />
+		<Unit filename="include/newParse.h" />
+		<Unit filename="include/saveLoad.h" />
+		<Unit filename="main.cc" />
+		<Unit filename="src/Inventory.cc" />
+		<Unit filename="src/Menu.cc" />
+		<Unit filename="src/Options.cc" />
+		<Unit filename="src/TestInventory.cc">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="src/TestMenu.cc" />
+		<Unit filename="src/TestNewParse.cc" />
+		<Unit filename="src/TestOptions.cc" />
+		<Unit filename="src/TestSaveLoad.cc">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="src/newParse.cc" />
+		<Unit filename="src/saveLoad.cc" />
+		<Unit filename="test/TestInventory.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="test/TestMenu.h" />
+		<Unit filename="test/TestNewParse.h" />
+		<Unit filename="test/TestOptions.h" />
+		<Unit filename="test/TestSaveLoad.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

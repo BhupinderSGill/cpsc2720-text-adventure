@@ -1,0 +1,13 @@
+The sun is high overhead.
+
+Where do you want to go?
+[0] In Game Menu
+#movement#Day5/LakeAfternoon#The Lake#
+#movement#Day5/CompanyAfternoon#The Company Building#
+#movement#Day5/StoreAfternoon#Mr. Paranoia's Store#
+#movement#Day5/StacieAfternoon#Stacie's House#
+#movement#Day5/BhupinderAfternoon#Bhupinder's House#
+#movement#Day5/KolodyAfternoon#Kolody's House#
+#movement#Day5/JuliusAfternoon#Julius' House#
+#movement#Day5/CramerAfternoon#Cramer's House#
+#movement#Day5/LibraryAfternoon#The Library#

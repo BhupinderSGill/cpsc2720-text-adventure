@@ -1,0 +1,12 @@
+
+You awaken to to the sound of heavy equipment running.
+The vibrations shatter the glass of water on your night stand.
+The water inside spills onto your floor and soaks into your wood floor. You brush the glass onto floor too and throw a cloth on it so you don’t cut your feet..
+“That's a later problem," you think as you wonder what to wear.
+
+#ifHaveItem#GravyOnYou#>Some gravy spills on you from your dirty clothes. You cant go out wearing this.#
+
+[0] In Game Menu
+#takeAction#GravyOnYou#Wear clothes off your floor?#
+#movement#Day2/MainEntranceDay2#Take some extra time and put on clean clothes#
+

@@ -1,0 +1,9 @@
+
+You find a fish, but this is no ordinary fish. Its a rare 30'in walleye. This one is different though. It has three heads. You analyze the disgusting mess in front of you. it once spiky fins are now practically made of slime and it smells like gasoline. "This is not acceptable," you think to yourself.
+
+
+
+#ifHaveItem#ReadBookDay2#>You talk to the fish almost expecting it to reply. You don't get one.#
+#ifHaveItem#Camera#>You snap several pictures of The Fish#
+[0] In Game Menu
+#movement#Day2/BeachDay2#Continue?#

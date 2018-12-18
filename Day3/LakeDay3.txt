@@ -1,0 +1,23 @@
+
+#ifHaveItem#!TalkToCousinDay3#Heeding Mr. Paranoia's advice, you decide to head over to the Lake.
+You're not sure what to expect.#
+#ifHaveItem#TalkToCousinDay3#Going off of what Mr. Paranoia's Mother told you, you decide to pay the Lake a visit, and see if you can catch up to him.
+Wonder what he is planning to do to the Corporation Building...#
+
+You see the lake... the water... it is indistinguishable now.
+You can't even tell what color the water is.
+Where's the 3 headed fish...?
+Nothing seems to survive in the toxic waters.
+
+#ifHaveItem#!TalkToHippyDay3#>You see the Unassuming Hippy by the water.#
+#ifHaveItem#TalkToHippyDay3#>Hippy: "Heeeey, maaaaaan"
+>Is he alright?
+Hippy: "See that there water, my maaan? It's terrible! This is all the Corporations doing!
+	I've been saying so all along!"
+>Not this again.#
+
+[0] In Game Menu
+#takeAction#TalkToHippyDay3#Talk to Unassuming Hippy?#
+#movement#Day3/LakeDay3v2#Ask him about Mr. Paranoia?#
+#movement#Day4/BedroomDay4#Yaawwwn... Call it a day?#
+

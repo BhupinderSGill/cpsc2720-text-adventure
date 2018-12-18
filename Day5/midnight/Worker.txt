@@ -1,0 +1,11 @@
+﻿#addItem#TalkedConstructionWorker#
+You open your door. A Construction Worker greets you.
+
+Worker> I am here to inform you that your house will be
+demolished tomorrow evening pending a court decision. You
+should prepare to move now as we will begin work immediately.
+
+[0] In Game Menu
+#movement#Day5/midnight/No1#Don't do that! How can you live with yourself?#
+#movement#Day5/midnight/No1#Don't do that! I'll be homeless!#
+#movement#Day5/midnight/No3#Don't do that! You don't have permission!#

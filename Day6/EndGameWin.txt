@@ -1,0 +1,25 @@
+﻿The town has made you the representative for this case.
+The CEO is smirking, and gives the judge a firm handshake.
+Looks suspicious.
+
+#ifHaveItem#Documents#>You present the documents, that Mr. Paranoia risked his life for
+to the court. Undeniable proof of the evil schemes of the CEO bribing a politician
+to allow him to build a golf course.
+
+CEO: "I knew you were the one who broke into my office! How dare you try to foil my plan!"
+
+>The town gasps.
+>The judge seems to be siding with you a bit.#
+________________________________________________________
+Your Aunt is next, and testifies that the CEO is a swell guy, and only out for their best
+interest in heart.
+Your Uncle does not look comfortable, and stays silent.
+________________________________________________________
+#ifHaveItem#ConvinceConstructionWorker#>The Construction worker you talked to last night goes up.
+Construction Worker: "Despite my position, I am siding with the town. It is common knowledge among us workers
+	that the CEO has definitely bribed a politician."
+CEO: "I PAY YOU. YOU'RE FIRED!"#
+
+[0] In Game Menu
+#movement#Day6/Petition#Continue...#
+

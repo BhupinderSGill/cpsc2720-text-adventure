@@ -1,0 +1,18 @@
+
+You leave your Bedroom to find one of your windows broken.
+Today's newspaper is on your table next to your camera.
+
+
+#ifHaveItem#ReadPaperDay2#>Dead fish or Dead wish is on the front page.
+You flip through the paper looking for something of interest. At the back you read a small article about how The Corporation has developed a new procedure for waste management.#
+#ifHaveItem#ReadBookDay2#>You waste some time and read a book. Its quite boring. It's about
+a person who turns into a fish#
+
+#ifHaveItem#Cereal#>You eat some of the cereal you bought. It doesn't taste right.#
+What will you do?
+
+[0] In Game Menu
+#takeAction#ReadPaperDay2#Read newspaper?#
+#takeAction#CameraDay2#Take camera?#
+#takeAction#ReadBookDay2#Read a book?#
+#movement#Day2/BeachDay2#Go to the beach and relax?#

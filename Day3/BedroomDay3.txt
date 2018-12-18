@@ -1,0 +1,19 @@
+
+You wake up to a familiar ceiling, your bedroom. Your clothing are still littered all around.
+#ifHaveItem#!PlayVideogamesDay3#In the corner of your room, you see your video game console and CRT television. 
+It is giving you the urge to do nothing, but play for the day.#
+#ifHaveItem#!NewspaperDay3#The newspaper is there as usual, however it's kind of strange today.#
+You notice you're still having a difficult time keeping your eyes open, maybe a jog will help wake you up.
+*Ring* Ring* The phone seems to be ringing from the nightstand beside your bed.
+The Caller ID on the little LCD screen on the cordless displays "Mr. Paranoia".
+
+#ifHaveItem#PlayVideogamesDay3#>Need to finish this game, so you play for a little while. Got frustrated and gave up.#
+#ifHaveItem#NapDay3#>You attempted to get 5 more minutes before starting your day, but the phone ringing kept you awake.#
+#ifHaveItem#NewspaperDay3#>You're still impressed that the paper delivered first thing in the morning. You read the headline, "Get Over the Hump". You seem to be having a good start already."#
+
+[0] In Game Menu
+#takeAction#PlayVideogamesDay3#Play Breath of the Wild on your console?#
+#takeAction#NapDay3#Get 5 more minutes of sleep?#
+#takeAction#NewspaperDay3#You seem curious... read newspaper?#
+#movement#Day3/JogDay3#Go outside for a little jog?#
+#movement#Day3/PhoneDay3#Pick up the phone, and...?#

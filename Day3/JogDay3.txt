@@ -1,0 +1,16 @@
+
+You get into your jog suit and lace up your running shoes.
+The sun shines brightly down on you as you step outside.
+
+While on a job around the block, you run into a kid.
+Hmmmm... you think you might recognize him.
+As you get closer you realize it is your cousin, Zack.
+He's looking at you with a purpose. You hear him yell "It's about Mr. Paranoia!!"
+
+#ifHaveItem#TalkToCousinDay3#>Zack: "Hey! You wouldn't guess, but a lot of the kids are freaking the hell out right now! Apparently Mr. Paranoia is planning to steal something from the big Corporation Building..."#
+#ifHaveItem#TalkToCousinDay3#>Huh... you wonder why he would do that, you decide to go back home and call him."#
+
+[0] In Game Menu
+#takeAction#TalkToCousinDay3#He seems to want to tell you something, talk to him?#
+#movement#Day3/BedroomDay3v2#Go back to your house?#
+

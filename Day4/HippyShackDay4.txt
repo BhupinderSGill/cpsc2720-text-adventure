@@ -1,0 +1,13 @@
+
+You knock on the door to the old rundown shack.
+*Knock* *Knock*
+The Hippy opens the door.
+
+Unassuming Hippy: "Heeeey, maaaan. Wasssuupp? Like, not at the Corporate Building yet?"
+
+#ifHaveItem#AskHippyDay4#"Hmmmm...? Duuuude, didn't he, like tell you? He's gone to the Corporate Building."#
+
+[0] In Game Menu
+#takeAction#AskHippyDay4#Seen Mr. Paranormal around today?#
+#movement#Day4/CorporateDay4#Corporate Building? Huh... might as well."#
+

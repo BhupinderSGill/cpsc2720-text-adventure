@@ -1,0 +1,6 @@
+You feel bad. You look at the phone on your nightstand.
+
+[0] In Game Menu
+#movement#Day6/TheCourtRoom#Go to sleep#
+#movement#Day5/midnight/Mom#Call your Mom#
+#movementIfItem#TalkToCousinDay3#Day5/midnight/Paranoia#Call Mr. Paranoia#
